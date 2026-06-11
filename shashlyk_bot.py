@@ -4,7 +4,7 @@ from datetime import datetime
 import threading
 
 WAITER_TOKEN = "8851091659:AAFDcVFsFH9hyhRcQivsHoeQmiRzzvomoX0"
-COOK_TOKEN   = "8995232402:AAHIZwYJe9WU4S--pc0UDFCZacBPUlfJwjQ"
+COOK_TOKEN = "8995232402:AAFTllVg6BnpV241DEQQfkg9pGChanUFroI"
 COOK_CHAT_ID = 853166810
 
 MENU = {
